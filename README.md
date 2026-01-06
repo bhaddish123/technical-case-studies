@@ -10,7 +10,7 @@ PCAP-based network forensics analysis using Wireshark to investigate
 HTTP, FTP, DNS, and TCP traffic patterns, identify host attributes,
 and extract HTTP artifacts.
 
-📄 Malware_Traffic_Analysis_Wireshark.pdf
+📄 [Malware Traffic Analysis Using Wireshark (PDF)](Malware_Traffic_Analysis_Wireshark.pdf)
 
 ---
 
@@ -18,4 +18,4 @@ and extract HTTP artifacts.
 System design documentation modeling a ticket verification workflow
 using UML use case and class diagrams.
 
-📄 Ticket_Verification_System_UML.pdf
+📄 [Ticket Verification System – UML & Use Cases (PDF)](Ticket_Verification_System_UML.pdf)
