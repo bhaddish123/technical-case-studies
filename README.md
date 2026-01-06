@@ -10,7 +10,7 @@ PCAP-based network forensics analysis using Wireshark to investigate
 HTTP, FTP, DNS, and TCP traffic patterns, identify host attributes,
 and extract HTTP artifacts.
 
-📄 [Malware Traffic Analysis Using Wireshark (PDF)](Malware_Traffic_Analysis_Wireshark.pdf)
+📄 [Malware Traffic Analysis using Wireshark (PDF)](Malware_Traffic_Analysis_Wireshark.pdf)
 
 ---
 
